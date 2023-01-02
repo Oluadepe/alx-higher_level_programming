@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """
 takes:
-- a URL 
-- Sends a request to the URL 
+- a URL
+- Sends a request to the URL
 - Displays the body of the response
 """
 
