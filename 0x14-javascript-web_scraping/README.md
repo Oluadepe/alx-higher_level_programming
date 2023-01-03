@@ -1,0 +1,1 @@
+This repo is about the amazing thing about JavaScript programming, manipulating Json data, using request to fetch API and how to read and write a file using fs. The projects are part of the training modules toward ALX Software Engineering Training
